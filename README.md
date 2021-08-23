@@ -86,10 +86,6 @@ _NOTE: Might take sometime to start as there will be 2 servers running._
 * Setup `Sequelize` with `MySQL` in the `API`.
 * Deploy the database to cloud, API, and client-side.
 
-## DEMO
-
-#### VIDEO - [Watch the video](https://www.youtube.com/watch?v=3jDIEf5vNp8)
- _Video Last Updated on 22nd March, 2020_
   
 #### IMAGES
 <img src="/demo/images/1.png" width=340px /><img src="/demo/images/2.png" width=340px />
