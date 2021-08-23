@@ -1,8 +1,5 @@
 
 
-As the name suggests, this project is a clone of a famous Q/A website for professional and enthusiast programmers built solely by me using a completely different stack.
-
-
 
 ## My Tech Stack (MERN)
 
@@ -20,8 +17,6 @@ As the name suggests, this project is a clone of a famous Q/A website for profes
 * As Database: `Microsoft SQL Server`
 * `.NET` as well
 
-## Contributing
-* Go to `Contributing.md`
 
 ## Guidelines to setup
 1. Create a `.env` file and the format should be as given in `.env.example`.
